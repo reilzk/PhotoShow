@@ -29,9 +29,6 @@
  */
 
 
-function init_infos(){
-	// Dummy function
-}
 
 
 function update_url(url,name){
